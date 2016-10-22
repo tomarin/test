@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     @IBAction func textchange(_ sender: AnyObject) {
         text.text="変更"
-        labeltext.text="おはよう世界"
+        labeltext.text="おはよう世界 Hello Wold"
     }
     
     
